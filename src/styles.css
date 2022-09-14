@@ -1,4 +1,10 @@
 .App {
-  font-family: sans-serif;
+  font-family: Poppins;
   text-align: center;
+}
+
+.App ul {
+  list-style-type: none;
+  margin: 20px 0px 20px 0px;
+  padding: 0;
 }
